@@ -1,0 +1,11 @@
+1. Copy all the codes and data file in one folder.
+
+2. All codes are written in python2 so please compile and run with PYTHON2. Compatible in any operating system.
+	WARNING: Different output may be expected in case of python3.
+	
+   To run in terminal type:
+   			python filename.py
+   	
+3. Some packages need to be installed beforehand namely numpy, matplotlib, re, nltk, random and math.
+	
+4. Some codes need to be modified to view train and test sample errors separately (Will print any one of them on a single run). For more information refer line number 376, 402 and 403 in Part1_sigmoid.py .
